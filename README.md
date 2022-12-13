@@ -5,12 +5,10 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on IT
-- 🌱 I’m currently learning GitHub
-- 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with nothing
-- 💬 Ask me about Cloud
-- 📫 How to reach me: email
-- 😄 Pronouns: mario
-- ⚡ Fun fact: i love chicken
-
+- 🔭 I’m currently working in the Cloud Team @ ACP IT Solutions GmbH
+- 🌱 I’m currently learning GitHub :)
+- 🤔 I’m looking for help with "Cloud Problems whitch i can't solve for my own"
+- 💬 Ask me about Cloud an IT :)
+- 📫 How to reach me: Email
+- 😄 Pronouns: Mario
+- ⚡ Fun fact: I like to eat a lot :P
